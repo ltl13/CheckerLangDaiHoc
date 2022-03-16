@@ -1,15 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "D2v87Owojj35juqouWngyJa8JSmwDkT7yWXhWu4wzGcTcwVlqKeYK5L4v1QtcWUQOaT3ILKMwzJC6r22Ncdk0g==",
+  "dgSpecHash": "DY3F1HEboZmCVy7ZXzWKPlOGPSWOKk/CnQytWm49tKvaTzVzysIVI4AfyqfRQxJbfe5XdWf2GUgNBNYAeW/LsQ==",
   "success": true,
   "projectFilePath": "D:\\Programing\\Web\\NET\\CheckerLangDaiHocAPI\\CheckerLangDaiHocAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ltl13\\.nuget\\packages\\graphql\\4.7.1\\graphql.4.7.1.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\graphql-parser\\7.2.0\\graphql-parser.7.2.0.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\graphql.newtonsoftjson\\4.7.1\\graphql.newtonsoftjson.4.7.1.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\graphql.server.ui.graphiql\\5.2.0\\graphql.server.ui.graphiql.5.2.0.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\graphql.systemtextjson\\4.7.1\\graphql.systemtextjson.4.7.1.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ltl13\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ltl13\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\ltl13\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\ltl13\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\ltl13\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\ltl13\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\ltl13\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\ltl13\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }
