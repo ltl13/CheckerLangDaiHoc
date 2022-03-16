@@ -43,6 +43,7 @@ namespace CheckerLangDaiHocAPI
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CheckerLangDaiHocAPI v1"));
             }
+            app.UseGraphQLGraphiQL();
 
             app.UseHttpsRedirection();
 
